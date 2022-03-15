@@ -1,6 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+// ex: 
+/* const number = 173;
+const singer = {name: 'Dr. Mahfuz', job: 'Singer'};
+const femaleSinger = {name: 'Eva Rahman', job: 'Female Singer'};
 
+const singerStyle = {
+  color: 'purple',
+  backgroundColor: 'white',
+  borderRadius: '10px'
+} */
 
 // new one
 const number = 173;
